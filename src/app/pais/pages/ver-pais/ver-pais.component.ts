@@ -26,10 +26,10 @@ export class VerPaisComponent implements OnInit {
 
     //     this.paisService.getPaisPorCodigo( id )
     //     .subscribe( pais => {
-    //       console.log(pais);
+    //       this.pais = pais
     //     });
 
-    //   } )
+    //   } );
 
     // Usar RxJs
     // Accedemos al Observable que tiene los parámetros
